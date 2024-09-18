@@ -1,0 +1,42 @@
+# Игнорирование системных файлов Windows
+*.log
+*.dat
+*.blf
+*.regtrans-ms
+*.ini
+*.LOG1
+*.LOG2
+NTUSER.DAT*
+ntuser.dat*
+ntuser.ini
+
+# Игнорирование временных файлов
+*.tmp
+*.temp
+*.bak
+*.old
+
+# Игнорирование файлов настроек IDE и редакторов
+.vscode/
+.idea/
+
+# Игнорирование пользовательских папок Windows
+/.android/
+/.bash_history
+/.gitconfig
+/.ssh/
+/AppData/
+/Contacts/
+/Desktop/
+/Downloads/
+/Favorites/
+/Links/
+/Music/
+/OneDrive/
+/Saved Games/
+/Searches/
+/Videos/
+/source/
+
+# Игнорирование системных логов и установочных файлов
+AMDRM_Install.log
